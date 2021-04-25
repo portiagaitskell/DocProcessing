@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import math
 
+
 # removes all duplicate boxes
 def check_duplicate_lines(lines):
     final_lines = []
